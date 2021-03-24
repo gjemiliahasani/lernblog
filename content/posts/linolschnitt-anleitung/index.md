@@ -26,14 +26,12 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
 * **Druckfarbe**
 * **Papier**
 
-
-
 # Linolschnitt
 
 1. Überlege dir was du als Motiv haben willst
 2. Übertrage es auf die Linolplatte
 
-   > ***Wichtig**: trage dein Motiv spiegelverkehrt auf die Platte. Das ist vor allem bei Buchstaben und Zahlen wichtig.*
+   > **Wichtig**: trage dein Motiv spiegelverkehrt auf die Platte. Das ist vor allem bei Buchstaben und Zahlen wichtig.
    >
    > Dafür kannst du einen Bleistift oder eine weisse Farbe brauchen
 3. Fange mit dem Schneiden an 
@@ -44,6 +42,8 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
 
    Und zufrieden mit deinem Motiv?
 
+   ![](thumbnail_img_6279.jpg)
+
    also kommst du jetzt zum **Drucken.**
 
    # **Drucken**
@@ -51,4 +51,24 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
    1. Mische dir deine gewünschten Farben auf der Farbpalette
    2. Nimm die Farbe mit der Walze auf
 
-   > Beachte das Genug Farbe auf der Walze ist
+      > Beachte das Genug Farbe auf der Walze ist
+      >
+      > ![](6d49ce6e-2959-491f-9aa0-f2612e12e1bd.jpg)
+   3. Bemale deine Linolplatte mit der Walze
+
+      Du kannst auch Farbverläufe kreieren
+
+      ![](70ac9270-933a-457d-a1b6-75bd5bd612ba.jpg)
+
+      ![](27820aae-af36-4938-a314-020311daab0d.jpg)
+   4. Nachdem du die Platte bemalt hast, überträgst du die Farbige Seite an das Blatt
+
+      Beachte das du gut drückst und auch ein Löffel gebrauchst für eine saubere Übertragung
+
+      ![](c91e04c5-430d-45c2-8683-b5d5590ba73b.jpg)
+
+      ![](5124b9ef-eb6d-48d5-a9f7-aa514a6d3287.jpg)
+
+   5. So jetzt hast du die Basics und kannst dich austoben und mehrere Platten erstellen!
+
+   ## **Viel Spass :)**
