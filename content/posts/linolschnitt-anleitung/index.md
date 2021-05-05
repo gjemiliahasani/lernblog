@@ -50,27 +50,27 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
 
    ## `also kommst du jetzt zum `**`Drucken.`**
 
-   # **`Drucken`**
+## **`Drucken:`**
 
-   1. Mische dir deine gewünschten Farben auf der Farbpalette
-   2. Nimm die Farbe mit der Walze auf
+1. Mische dir deine gewünschten Farben auf der Farbpalette
+2. Nimm die Farbe mit der Walze auf
 
-      > `Beachte das Genug Farbe auf der Walze ist`
-      >
-      > ![](6d49ce6e-2959-491f-9aa0-f2612e12e1bd.jpg)
-   3. Bemale deine Linolplatte mit der Walze
+   > `Beachte das Genug Farbe auf der Walze ist`
+   >
+   > ![](6d49ce6e-2959-491f-9aa0-f2612e12e1bd.jpg)
+3. Bemale deine Linolplatte mit der Walze
 
-      > `Du kannst auch Farbverläufe kreieren`
+   > `Du kannst auch Farbverläufe kreieren`
 
-      ![](70ac9270-933a-457d-a1b6-75bd5bd612ba.jpg)
+   ![](70ac9270-933a-457d-a1b6-75bd5bd612ba.jpg)
 
-      ![](27820aae-af36-4938-a314-020311daab0d.jpg)
-   4. Nachdem du die Platte bemalt hast, überträgst du die Farbige Seite an das Blatt
+   ![](27820aae-af36-4938-a314-020311daab0d.jpg)
+4. Nachdem du die Platte bemalt hast, überträgst du die Farbige Seite an das Blatt
 
-      Beachte das du gut drückst und auch ein Löffel gebrauchst für eine saubere Übertragung
+   Beachte das du gut drückst und auch ein Löffel gebrauchst für eine saubere Übertragung
 
-      ## `So jetzt hast du die Basics und kannst dich austoben und mehrere Platten erstellen!`
+   ## `So jetzt hast du die Basics und kannst dich austoben und mehrere Platten erstellen!`
 
 
 
-   # **Viel Spass :)**
+# **Viel Spass :)**
