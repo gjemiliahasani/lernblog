@@ -28,19 +28,19 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
 
 # `Linolschnitt`
 
-1. `Überlege dir was du als `**`Motiv`**
-2. `Übertrage es auf die `**`Linolplatte`**
+1. Überlege dir was du als **Motiv**
+2. Übertrage es auf die **Linolplatte**
 
-   **Wichtig** 
+   **`Wichtig:`** 
 
-   Das ist vor allem bei Buchstaben und Zahlen wichtig.
+   `Das ist vor allem bei Buchstaben und Zahlen wichtig.`
 
-   Dafür kannst du einen **Bleistift** oder einen **weissen Farbstift** brauchen
+   `Dafür kannst du einen `**`Bleistift`**
 
+   ``
+3. Fange mit dem Schneiden an
 
-3. `Fange mit dem Schneiden an `
-
-   Achte darauf das du dir nicht in die Finger schneidest
+   `Achte darauf das du dir nicht in die Finger schneidest`
 
    ![](thumbnail_img_6277.jpg)
 
@@ -52,15 +52,15 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
 
 ## **`Drucken:`**
 
-1. `Mische dir deine gewünschten Farben auf der Farbpalette`
-2. `Nimm die Farbe mit der Walze auf`
+1. Mische dir deine gewünschten Farben auf der Farbpalette
+2. Nimm die Farbe mit der Walze auf
 
-   Beachte das Genug Farbe auf der Walze ist
+   `Beachte das Genug Farbe auf der Walze ist`
 
    ![](6d49ce6e-2959-491f-9aa0-f2612e12e1bd.jpg)
-3. `Bemale deine Linolplatte mit der Walze`
+3. Bemale deine Linolplatte mit der Walze
 
-   Du kannst auch Farbverläufe kreieren
+   `Du kannst auch Farbverläufe kreieren`
 
    ![](70ac9270-933a-457d-a1b6-75bd5bd612ba.jpg)
 
