@@ -1,6 +1,6 @@
 +++
 title = "Linolschnitt Anleitung"
-date = "2021-05-05"
+date = "2021-05-26"
 draft = false
 pinned = false
 description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mitteln wunderschöne Postkarten, Kunstdrucke oder Wandbilder zu drucken. \nDamit kannst du deiner Fantasie freien Lauf lassen. \n"
@@ -35,14 +35,12 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
 
    `Das ist vor allem bei Buchstaben und Zahlen wichtig.`
 
-   `Dafür kannst du einen `**`Bleistift`**
+   `Dafür kannst du einen`**`Bleistift oder weissen Farbstift `**
 
    ``
 3. Fange mit dem Schneiden an
 
    `Achte darauf das du dir nicht in die Finger schneidest`
-
-   ![](thumbnail_img_6277.jpg)
 
    ## `Und zufrieden mit deinem Motiv?`
 
@@ -67,7 +65,9 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
    ![](27820aae-af36-4938-a314-020311daab0d.jpg)
 4. Nachdem du die Platte bemalt hast, überträgst du die Farbige Seite an das Blatt
 
-   Beachte das du gut drückst und auch ein Löffel gebrauchst für eine saubere Übertragung
+   Beachte das du gut drückst und auch ein Löffel gebrauchst für eine saubere Übertragung.
+
+   ![](5124b9ef-eb6d-48d5-a9f7-aa514a6d3287.jpg)
 
    ## `So jetzt hast du die Basics und kannst dich austoben und mehrere Platten erstellen!`
 
