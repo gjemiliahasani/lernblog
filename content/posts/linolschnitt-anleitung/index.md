@@ -35,9 +35,9 @@ description = "Der Linolschnitt ist eine tolle Möglichkeit, um mit wenig Mittel
 
    `Das ist vor allem bei Buchstaben und Zahlen wichtig.`
 
-   `Dafür kannst du einen`**`Bleistift oder weissen Farbstift `**
+   `Dafür kannst du einen`**`Bleistift oder weissen Farbstift brauchen`**
 
-   ``
+
 3. Fange mit dem Schneiden an
 
    `Achte darauf das du dir nicht in die Finger schneidest`
